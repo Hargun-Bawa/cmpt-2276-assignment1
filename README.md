@@ -1,11 +1,9 @@
-#CPMT-2276 Assignment 1
+# CPMT-2276 Assignment 1
 ---
-##Description
+## Description
 TODO: Add one plz
 
-##Work Splitting
+## Work Splitting
 Hargun and Edward - Vision Document
 Matt - Glossary
 Taylor - Business & Domain Rules
-
-##
