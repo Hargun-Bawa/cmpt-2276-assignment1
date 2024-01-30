@@ -4,6 +4,6 @@
 TODO: Add one plz
 
 ## Work Splitting
-Hargun and Edward - Vision Document
-Matt - Glossary
-Taylor - Business & Domain Rules
+* Hargun and Edward - Vision Document
+* Matt - Glossary
+* Taylor - Business & Domain Rules
