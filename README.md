@@ -1,7 +1,7 @@
-# CPMT-2276 Assignment 1
+# CMPT-2276 Assignment 1
 ---
 ## Description
-TODO: Add one plz
+Assignment for CMPT-2276, Intro to Software Engineering. A set of documents describing a hypothetical API that passively detects the number of occupants in a building by counting and locating wifi connection attempts from unique MAC addresses. 
 
 ## Work Splitting
 * Hargun and Edward - Vision Document
