@@ -17,6 +17,7 @@ On the other hand, with a sensor that can detect how many mobile devices are aro
 -	Take in and organize data from several devices
 -	Run algorithms to recognize patterns
 -	Sort the information into a useful state
+
 -	Output the information in a standard format 
 
 ## Key Features and Functionalities:
@@ -54,3 +55,4 @@ In general, this project collects network traffic in any specified area of a bui
 -	Privacy is also an issue, even though information theoretically is not tracable to  specific individuals, people may have concerns about network traffic monitoring of any kind.
 -	As with any new product there is always the risk of not attracting any adopters of the technology, or that the expectation of developers to match their software to our outputs is unreasonable
 -	Certain materials block network traffic, changes to architecture or interior design may cause misinformation and faulty systems
+
