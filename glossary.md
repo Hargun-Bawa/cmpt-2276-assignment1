@@ -67,3 +67,4 @@ An API defines a set of rules for how software interacts together and exchange i
 data formats and functionalities of software, and exposes a set of methods of functions that developers of other software
 
 can use to access operations that can be performed through the API.
+
